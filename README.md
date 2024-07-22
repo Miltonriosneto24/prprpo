@@ -5,5 +5,10 @@
    2- Recuperação de um arquivo alterado
    3- Possibilidade de fazer alterações criando um novo arquivo sem alterar o arquivo “base”
    4- Pode ser editado por um grupo de programadores, facilitando na programação de arquivos.
-   5-    
+   5-    registro: o controle de versão mantem um historico de alteração
+
+
+   1- cvs
+   2- subversion
+   3- git
 
